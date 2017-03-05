@@ -1,6 +1,6 @@
 # v1.0
 
-## seems correct but running slow, need to figure it out why, should be faster than java version one.
+seems correct but running slow, need to figure it out why, should be faster than java version one.
 
 * game method done
 
